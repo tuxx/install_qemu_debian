@@ -1,0 +1,6 @@
+---
+roles:
+  - name: githubixx.docker
+    src: https://github.com/githubixx/ansible-role-docker
+    version: main
+    scm: git
