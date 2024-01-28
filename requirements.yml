@@ -5,6 +5,6 @@ roles:
     version: master
     scm: git
   - name: geerlingguy.ansible-role-nfs
-    src: https://github.com/geerlingguy/ansible-role-nfs
+    src: https://github.com/geerlingguy/nfs
     version: master
     scm: git

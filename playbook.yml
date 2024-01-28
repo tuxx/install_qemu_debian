@@ -1,3 +1,4 @@
 - hosts: localhost
   roles:
     - githubixx.docker
+    - geerlingguy.ansible-role-nfs
